@@ -1,1 +1,1 @@
-# SDU_AI-Poster
+# Poster template
